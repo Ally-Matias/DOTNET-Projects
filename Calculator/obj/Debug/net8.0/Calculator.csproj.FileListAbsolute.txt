@@ -1,0 +1,15 @@
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/bin/Debug/net8.0/Calculator
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Calculator/obj/Debug/net8.0/ref/Calculator.dll

@@ -1,0 +1,15 @@
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/bin/Debug/net8.0/Project-POO
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/bin/Debug/net8.0/Project-POO.deps.json
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/bin/Debug/net8.0/Project-POO.runtimeconfig.json
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/bin/Debug/net8.0/Project-POO.dll
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/bin/Debug/net8.0/Project-POO.pdb
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.GeneratedMSBuildEditorConfig.editorconfig
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.AssemblyInfoInputs.cache
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.AssemblyInfo.cs
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.csproj.CoreCompileInputs.cache
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.sourcelink.json
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.dll
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/refint/Project-POO.dll
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.pdb
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/Project-POO.genruntimeconfig.cache
+/home/alliquisonmatias/Área de Trabalho/MatiasDev/DOTNET-Projects/Project-POO/obj/Debug/net8.0/ref/Project-POO.dll

@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: Calculator",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Calculator/Calculator.csproj",
+            "launchConfigurationId": "TargetFramework=;Calculator"
+        }
+    ]
+}

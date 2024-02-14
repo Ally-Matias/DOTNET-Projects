@@ -105,8 +105,6 @@ CREATE TABLE [PostTag](
 
 ----------------------
 
---OBS: na do curso, ele não upou "UserRole"
-
 -- INSERT
 
 INSERT INTO

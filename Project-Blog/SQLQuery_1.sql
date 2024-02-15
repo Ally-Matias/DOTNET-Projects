@@ -105,7 +105,7 @@ CREATE TABLE [PostTag](
 
 ----------------------
 
--- INSERT
+-- INSERT User
 
 INSERT INTO
     [User]
@@ -123,3 +123,50 @@ VALUES (
 -- PESQUISA
 
 SELECT * FROM [User] 
+
+
+----------------------
+
+-- INSERT Role
+
+INSERT INTO
+    [Role]
+VALUES (
+    'Autor', 
+    'Author'
+)
+
+
+----------------------
+
+-- PESQUISA
+
+SELECT * FROM [Role] 
+
+----------------------
+
+-- INSERT Tag
+
+INSERT INTO
+    [Tag]
+VALUES (
+    'ASP .NET', 
+    'Aspnet'
+)
+
+
+----------------------
+
+-- PESQUISA
+
+SELECT * FROM [Tag] 
+
+----------------------
+
+SELECT
+    [User].*,
+    [Role].*
+FROM
+    [User]
+    LEFT JOIN [UserRole] ON [UserRole].[UserId] = [User].[Id]
+    LEFT JOIN [Role] ON [UserRole].[RoleId] = [Role].[Id]
